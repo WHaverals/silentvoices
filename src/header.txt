@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SIGNATUUR HANDSCHRIFT</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Diplomatische, digitale uitgave van handschrift SIGNATUUR INVOEGEN</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>De transcriptie is vervaardigd op basis van een fotografische reproductie van het
+                    handschrift, die vervolgens in situ is gecollationeerd met het origineel.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="charDecl.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+            <editorialDecl>
+                <p>Voor alle andere opmerkingen: zie de inleiding bij de editie.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="naamvandekopiist">
+                    <p>Eventueel bijkomende informatie over de kopiist</p>
+                </handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="xxx" n="1.1.1">
+                <body>
+                    <p>
